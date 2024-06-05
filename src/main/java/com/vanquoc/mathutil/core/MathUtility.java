@@ -19,8 +19,8 @@ public class MathUtility {
     // n 0...20; do 21! tràn kiểu long, ko có âm giai thừa
     // 0! = 1;
     public static long getFactorial(int n) {
-        long product = 10; // biến con heo đất, biết nhân dồn
-        
+        long product = 1; // biến con heo đất, biết nhân dồn
+        // sửa lại từ 10 thành 1 để có màu xanh trở lại
         if (n < 0 || n > 20)
             throw new IllegalArgumentException("Invalid n. n must be between 0...20");
         
