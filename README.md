@@ -10,6 +10,8 @@
 
 * A CI script to demonstrate the Continuous Integration using GitHub Actions
 
+* A demonstration on what is the Regression Test (Kiểm thử hồi quy)
+
 * and more...
 
 ## Screenshots
