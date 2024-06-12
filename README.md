@@ -12,7 +12,11 @@
 
 * A demonstration on how to produce confliction and how to merge the code within a teamwork
 
+<<<<<<< HEAD
 * alo
+=======
+* 
+>>>>>>> 869ccbe868c9ec156b799a169618abed7ae46c67
 
 * A demonstration on what is the Regression Test (Kiểm thử hồi quy)
 
