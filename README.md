@@ -8,7 +8,9 @@
 
 * A Unit Test tests script using the JUnit Test framework and TDD, DDT techniques
 
-* A CI script to demonstrate the Continuous Integration using GitHub Actions
+* A CI script to demonstrate the Continuous Integration using GitHub Actions with Maven
+
+* A demonstration on how to produce confliction and how to merge the code within a teamwork
 
 * and more...
 
