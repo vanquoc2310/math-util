@@ -12,6 +12,8 @@
 
 * A demonstration on how to produce confliction and how to merge the code within a teamwork
 
+* alo
+
 * A demonstration on what is the Regression Test (Kiểm thử hồi quy)
 
 * and more...
